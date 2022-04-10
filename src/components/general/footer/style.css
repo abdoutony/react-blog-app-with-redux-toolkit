@@ -1,0 +1,17 @@
+.footer-container {
+  padding-top: 50px;
+  margin-top: 50px;
+}
+
+.footer-list {
+  list-style-type: none;
+}
+
+.footer-list-item {
+  margin: 10px 0;
+}
+
+.footer-list-link {
+  text-decoration: none !important;
+  font-size: 17px;
+}

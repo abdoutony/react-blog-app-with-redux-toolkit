@@ -1,0 +1,7 @@
+.about-us-container {
+  padding: 30px;
+}
+.about-us-row {
+  display: flex;
+  align-items: center;
+}

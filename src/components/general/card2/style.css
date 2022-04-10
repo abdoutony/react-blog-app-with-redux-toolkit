@@ -1,0 +1,13 @@
+.card-two-container {
+  display: flex;
+  margin: 15px 0;
+}
+.card-two-container .image-wrapper img {
+  width: 60px;
+  height: 60px;
+}
+
+.card-two-container .title-wrapper {
+  padding: 10px;
+  cursor: pointer;
+}
